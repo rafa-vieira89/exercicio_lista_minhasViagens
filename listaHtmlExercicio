@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <title>Minhas viagens</title>
+  </head>
+
+  <body>
+    <h2>Lugares que quero conhecer:</h2>
+    <ul>
+      <li>Cidade: <strong>Nova York</strong></li>
+      <li>Estado: <strong>Nova Iorque</strong></li>
+      <li>País: <strong>EUA</strong></li>
+      <ul>
+        <h4>Pontos Turísticos:</h4>
+      </ul>
+        <ul>
+          <ol>
+            <li><em>Estatua da liberdade</em></li>
+            <li><em>Central Park</em></li>
+            <li><em>Empire State</li></em></li>
+          </ol>
+        </ul>
+    </ul>
+
+    <ul>
+      <li>Cidade: <strong>Vancouver </strong></li>
+      <li>Estado: <strong>Colúmbia Britânica</strong></li>
+      <li>País: <strong>Canada</strong></li>
+      <ul>
+        <h4>Pontos Turísticos:</h4>
+      </ul>
+        <ul>
+          <ol>
+            <li><em>Vancouver Lookout</em></li>
+            <li><em>Grouse Mountain</em></li>
+            <li><em>Capilano Suspension Bridge</em></li>
+          </ol>
+        </ul>
+    </ul>
+
+    <ul>
+      <li>Cidade: <strong>Ravello</strong></li>
+      <li>Estado: <strong>Salerno</strong></li>
+      <li>País: <strong>Itália</strong></li>
+      <ul>
+        <h4>Pontos Turísticos:</h4>
+      </ul>
+        <ul>
+          <ol>
+            <li><em>Villa Ruffolo</em></li>
+            <li><em>Villa Cimbrone</em></li>
+            <li><em>Duomo di Ravello<em></li>
+          </ol>
+        </ul>
+    </ul>
+  </body>
+</html>
